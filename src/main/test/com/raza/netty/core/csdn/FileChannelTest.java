@@ -1,4 +1,4 @@
-package com.raza.netty.core.test;
+package com.raza.netty.core.csdn;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.raza.netty.core.test;
+package com.raza.netty.core.csdn;
 
 import com.raza.netty.constant.StringConstant;
 import org.junit.Test;

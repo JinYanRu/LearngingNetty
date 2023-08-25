@@ -1,4 +1,4 @@
-package com.raaq.netty.core.test;
+package com.raza.netty.core.test;
 
 import org.junit.Test;
 
